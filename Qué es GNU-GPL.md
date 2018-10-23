@@ -1,7 +1,9 @@
 # ¿Qué es GNU/GPL?
 
-**GNU **
+
+** GNU**
 Es un Sistema Operativo formado por software libre, o de código abierto.
+
 
 **GPL**
 
