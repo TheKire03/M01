@@ -1,4 +1,4 @@
-*¿Qué contiene el MBR?
+# ¿Qué contiene el MBR?
 
 
 El MBR, son sectores que dividen datos en los DD. El tamaño mínimo de 
