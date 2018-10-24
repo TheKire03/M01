@@ -4,5 +4,4 @@
 
 2. Acto seguido, Jonatan nos mostró un aparato llamado tester, que permite comprobar la continuidad de los cables mediante unas pinzas con puntas polarizadas que el entrar en contacto con los pines del mismo cable pero de lugar contrario, emite un sonido si por el cable hay continuidad, es decir que si que pasa electricidad. Al acabar de mirar la continudad de distintos cables, como por ejemplo, el de red, el del pusador de encendido, etc. También comprovamos los voltios de la fuente de alimentación y del ventilador de la CPU.
 
-3. 
-Miramos también el PDF del fabricante de la Placa Base, para saber su diseño y distribución.
+3. Miramos también el PDF del fabricante de la Placa Base, para saber su diseño y distribución de los cables y y los pins a los que iban conectados para no equivocarse. Vimos la disribución más importante de un PC, el _Front Panel_ (Panel Frontal), que es dónde hay los conectores USB, HDMI, pulsador de encendido...
