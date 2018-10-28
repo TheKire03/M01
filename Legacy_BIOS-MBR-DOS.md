@@ -6,3 +6,5 @@ La BIOS MBR DOS, tiene ciertas limitaciones para particionar el Disco Duro, sobr
 - 1 primaria puede se _Extend_ (Extendida)
 - Dentro de la extendida, puede haber _n_ lógicas. (Dónde _n_ és un número entero y finito)
 - 1 primaria debe ser _Active_ (Activa)
+
+Linux nunca ha tenido reglas de partición del Disco Duro.
