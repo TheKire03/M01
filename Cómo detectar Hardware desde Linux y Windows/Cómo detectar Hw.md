@@ -12,4 +12,4 @@ En el caso de quererlo ver de forma gráfica, usaremos el comando:
 <pre>lshw-gui</pre>
 
 Pero si eres de Windows, simplemente con un programa llamado _speccy_ o 
-con otro llamado _CPU-z_.
+con otro llamado _CPU-z_, que nos lo dirian todo sobre nuestro Hardware.
