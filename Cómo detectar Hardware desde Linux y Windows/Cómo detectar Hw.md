@@ -13,3 +13,5 @@ En el caso de quererlo ver de forma gráfica, usaremos el comando:
 
 Pero si eres de Windows, simplemente con un programa llamado _speccy_ o 
 con otro llamado _CPU-z_, que nos lo dirian todo sobre nuestro Hardware.
+
+![](file:///C:/Users/alexv/Desktop/Erik/Asignaturas/CPU-Z.png)
